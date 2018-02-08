@@ -1,8 +1,11 @@
-[[Home]](index.html)
+[[Home]](index)
 
 # Robert M. Laurie
 
 #### Address:  
+
+I don't live here anymore
+![Nice Beach](https://www.supercoolbeaches.com/sites/default/files/styles/medium/public/aharen-beach-okinawa.jpg?itok=MPW-GzUi)
 
 沖縄県中頭郡北谷町  
 Chatan, Okinawa, JAPAN
